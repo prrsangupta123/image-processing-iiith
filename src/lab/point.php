@@ -484,7 +484,7 @@ $("button3","#zoom").button();
 			<h1 style="text-align: center;">Virtual Lab for IMAGE PROCESSING</h1>
 			<div class="menu">
 <div class="home">
-<a onclick="confirmTo('index.html')">home</a>
+<a onclick="confirmTo('http://cse19-iiith.vlabs.ac.in/')">home</a>
 </div>
 <ul>
 <li><a href="objective.php?exp=point" target="_self" >Objective</a>
